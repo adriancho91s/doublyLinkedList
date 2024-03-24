@@ -1,6 +1,6 @@
 # Doubly Linked List Workshop
 
-This workshop is designed to help you understand the concept of Doubly Linked Lists in Data Structures using the C programming language.
+This workshop help me to understand the concept of Doubly Linked List and how to implement it in C programming language. The workshop is divided into several parts, each focusing on a different aspect of the Doubly Linked List data structure.
 
 ## Overview
 
